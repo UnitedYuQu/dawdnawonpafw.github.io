@@ -1,0 +1,4 @@
+[alert]
+text=Драствуте.
+click=https://google.com
+time=9000
