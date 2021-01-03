@@ -9,6 +9,7 @@ descriptionfullru=Прекрасный чит для игры CS:GO. Удобн�
 descriptionfullen=A great cheat for CS: GO. User-friendly interface with theme switching; a large number of unique features: a wallhack with a complete bypass of recording on video and live broadcasts; smooth and clear legit aimbot, hard and fast rage aimbot; changer of inventory, profile, adding medals; anti-aim leg. Cheat will give you a full advantage over your opponents in any situation and will definitely not leave you indifferent
 descriptionfullua=Прекрасний чит для гри CS: GO. Зручний інтерфейс з перемиканням теми; велика кількість унікальних функцій: воллхака з повним обходом записи на відео і прямих трансляціях; плавний і чіткий легіт аімбот, жорсткий і швидкий рейдж аімбот; ченджер інвентарю, профілю, додавання медалей; легіт анти-аіми. Чит надасть Вам повну перевагу над вашими противниками в будь-якій ситуації і точно не залишить Вас байдужим
 imgurl=https://xyecoc.pw/YuQu/img/aurora.png
+imgpath=C:/YuQu/optimization/img/aurora.png
 versioncheatblockcheat=v1.3
 
 [cheat2]
