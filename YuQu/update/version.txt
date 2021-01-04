@@ -1,2 +1,4 @@
 [loader]
 version=3
+[update]
+name=chill.exe
