@@ -1,4 +1,2 @@
 [loader]
 version=1
-[updater]
-name=jopa.exe
