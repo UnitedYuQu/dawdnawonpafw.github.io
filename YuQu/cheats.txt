@@ -28,8 +28,8 @@ versioncheatblockcheat=v1.3
 
 [cheat3]
 visible=true
-enable=true
-elementname=aurora
+enable=false
+elementname=gamesense
 namecheatblockcheat=gamesense
 descriptionblockcheatru=платний
 descriptionblockcheatua=платний
@@ -37,7 +37,7 @@ descriptionblockcheaten=платний
 descriptionfullru=платный
 descriptionfullen=platniy
 descriptionfullua=платнiй
-imgurl=https://www.urologist.com.ua/wp-content/uploads/2019/07/IMG_20190731_003700.jpg
+imgurl=null
 versioncheatblockcheat=v1.3
 
 [cheat4]
