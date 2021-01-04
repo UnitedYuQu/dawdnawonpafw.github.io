@@ -44,14 +44,14 @@ versioncheatblockcheat=v1.3
 visible=true
 enable=true
 elementname=aurora
-namecheatblockcheat=Aurora
-descriptionblockcheatru=бесплатный
-descriptionblockcheatua=безплатний
-descriptionblockcheaten=free
-descriptionfullru=Russian
-descriptionfullen=English
-descriptionfullua=Украина
-imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
+namecheatblockcheat=женя
+descriptionblockcheatru=ты гей
+descriptionblockcheatua=пидарас
+descriptionblockcheaten=мосляк
+descriptionfullru=пидар
+descriptionfullen=пидар
+descriptionfullua=пидар
+imgurl=http://gribokstop.com/wp-content/uploads/2017/02/gribok-na-chlene-foto.png
 versioncheatblockcheat=v1.3
 
 [cheat5]
