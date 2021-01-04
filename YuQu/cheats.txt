@@ -2,7 +2,7 @@
 visible=true
 enable=true
 elementname=aurora
-namecheatblockcheat=Aurafwf
+namecheatblockcheat=Aurora
 descriptionblockcheatru=бесплатный
 descriptionblockcheatua=безплатний
 descriptionblockcheaten=free
@@ -10,21 +10,21 @@ descriptionfullru=Прекрасный чит для игры CS:GO. Удобн�
 descriptionfullen=A great cheat for CS: GO. User-friendly interface with theme switching; a large number of unique features: a wallhack with a complete bypass of recording on video and live broadcasts; smooth and clear legit aimbot, hard and fast rage aimbot; changer of inventory, profile, adding medals; anti-aim leg. Cheat will give you a full advantage over your opponents in any situation and will definitely not leave you indifferent
 descriptionfullua=Прекрасний чит для гри CS: GO. Зручний інтерфейс з перемиканням теми; велика кількість унікальних функцій: воллхака з повним обходом записи на відео і прямих трансляціях; плавний і чіткий легіт аімбот, жорсткий і швидкий рейдж аімбот; ченджер інвентарю, профілю, додавання медалей; легіт анти-аіми. Чит надасть Вам повну перевагу над вашими противниками в будь-якій ситуації і точно не залишить Вас байдужим
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
-versioncheatblockcheat=v1.3
+versioncheatblockcheat=
 
 [cheat2]
 visible=true
 enable=true
 elementname=aurora
-namecheatblockcheat=я гей 
-descriptionblockcheatru=нет блин натурал
-descriptionblockcheatua=нет блин москаль
-descriptionblockcheaten=net blin lgbt
-descriptionfullru=asd
-descriptionfullen=asd
-descriptionfullua=asd
-imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
-versioncheatblockcheat=v1.3
+namecheatblockcheat=Osiris
+descriptionblockcheatru=бесплатный
+descriptionblockcheatua=безплатний
+descriptionblockcheaten=free
+descriptionfullru=Osiris - чит на КС:ГО, доступен бесплатно и имеет минимальную вероятность привести игрока к получению VAC-бана при наличии актуальной версии. Osiris регулярно обновляется, так что опасаться блокировок не следует. Мультихак предоставляет все, что может пригодиться в игре: аимбот, триггербот, вид от третьего лица, SkinChanger, распрыжку и многое другое. Фактически здесь собраны практически все читы в одном, с огромным количеством настроек. Это позволит настроить их под себя и регулировать в зависимости от того, против кого ведется матч.
+descriptionfullen=Osiris - cheat on CS:GO, is available for free and has a minimal probability of leading the player to receive a VAC-ban if there is an up-to-date version. Osiris is regularly updated, so you should not be afraid of blocking. Multihack provides everything that can be useful in the game: aimbot, trigger bot, third-person view, Skin Changer, jump and much more. In fact, almost all cheats are collected here in one, with a huge number of settings. This will allow you to customize them for yourself and adjust them depending on who the match is being played against.
+descriptionfullua=Osiris - чит на КС: ГО, доступний безкоштовно і має мінімальну ймовірність привести гравця до отримання VAC-бана при наявності актуальної версії. Osiris регулярно оновлюється, так що побоюватися блокувань не слід. Мультихак надає все, що може стати в нагоді в грі: аімбот, тригербот, вид від третьої особи, Skin Changer, розприжку і багато іншого. Фактично тут зібрані практично всі чіти в одному, з величезною кількістю налаштувань. Це дозволить налаштувати їх під себе і регулювати в залежності від того, проти кого ведеться матч.
+imgurl=https://csgobot.ru/uploads/posts/2020-03/1585121092_osiris-for-csgo-2.jpg
+versioncheatblockcheat=
 
 [cheat3]
 visible=true
