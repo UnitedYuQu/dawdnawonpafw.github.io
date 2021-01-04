@@ -1,3 +1,6 @@
+[loader]
+version=3
+
 [cheat1]
 visible=true
 enable=true
