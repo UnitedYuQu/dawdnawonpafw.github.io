@@ -1,2 +1,2 @@
 [loader]
-version=3
+version=4
