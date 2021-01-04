@@ -15,7 +15,7 @@ versioncheatblockcheat=
 [cheat2]
 visible=true
 enable=true
-elementname=aurora
+elementname=osiris
 namecheatblockcheat=Osiris
 descriptionblockcheatru=бесплатный
 descriptionblockcheatua=безплатний
