@@ -1,2 +1,2 @@
 [updater]
-name=jopa.exe
+name=gavni.exe
