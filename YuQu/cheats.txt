@@ -30,14 +30,14 @@ versioncheatblockcheat=v1.3
 visible=true
 enable=true
 elementname=aurora
-namecheatblockcheat=Aurora
-descriptionblockcheatru=бесплатный
-descriptionblockcheatua=безплатний
-descriptionblockcheaten=free
-descriptionfullru=Russian
-descriptionfullen=English
-descriptionfullua=Украина
-imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
+namecheatblockcheat=gamesense
+descriptionblockcheatru=платний
+descriptionblockcheatua=платний
+descriptionblockcheaten=платний
+descriptionfullru=платный
+descriptionfullen=platniy
+descriptionfullua=платнiй
+imgurl=https://www.urologist.com.ua/wp-content/uploads/2019/07/IMG_20190731_003700.jpg
 versioncheatblockcheat=v1.3
 
 [cheat4]
