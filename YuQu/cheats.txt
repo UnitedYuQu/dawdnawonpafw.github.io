@@ -2,7 +2,7 @@
 visible=true
 enable=true
 elementname=aurora
-namecheatblockcheat=Aurafwfwef
+namecheatblockcheat=Aurafwf
 descriptionblockcheatru=бесплатный
 descriptionblockcheatua=безплатний
 descriptionblockcheaten=free
