@@ -1,3 +1,6 @@
+[cheats]
+value=1
+
 [cheat1]
 visible=true
 enable=true
