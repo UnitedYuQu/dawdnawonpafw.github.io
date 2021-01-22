@@ -49,15 +49,15 @@ versioncheatblockcheat=2
 [cheat3]
 visible=true
 enable=true
-elementname=gamesense
-namecheatblockcheat=gamesense
-descriptionblockcheatru=платний
-descriptionblockcheatua=платний
-descriptionblockcheaten=платний
-descriptionfullru=платный
-descriptionfullen=platniy
-descriptionfullua=платнiй
-imgurl=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdonpress.com%2Ffiles%2Fstyles%2Fxlwd%2Fpublic%2Fimages%2Fnews%2F1812%2FScreenshot_13.png%3Fitok%3DKSmmJpJZ&f=1&nofb=1
+elementname=onetap
+namecheatblockcheat=Onetap V3
+descriptionblockcheatru=кряк
+descriptionblockcheatua=кряк
+descriptionblockcheaten=crack
+descriptionfullru=Onetap - один из самых популярных читов в зарубежном интернете. Если читер пишет в поисковике крутилка для кс го, то чаще всего он ищет именно кряк вантапа.
+descriptionfullen=Onetap - is one of the most popular cheats on the foreign Internet. If a cheater writes in the search engine twister for cs go, then most often he is looking for a crack of onetap.
+descriptionfullua=Onetap - один з найпопулярніших читів в зарубіжному Інтернеті. Якщо читер пише в пошуковику крутилка для кс го, то найчастіше він шукає саме кряк вантапа.
+imgurl=https://media.discordapp.net/attachments/785132744807546880/802188568780472340/unknown.png?width=504&height=561
 versioncheatblockcheat=3
 
 [cheat4]
