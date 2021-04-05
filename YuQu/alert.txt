@@ -1,5 +1,8 @@
 [alert]
 enable=true
-text=Драствуте.
+textru=Драствуте.
+textua=Вітаю.
+texten=Hello.
 click=https://google.com
 time=9000
+chance=3
