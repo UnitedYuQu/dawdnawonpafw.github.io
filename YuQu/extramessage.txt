@@ -1,1 +1,5 @@
-
+[extramessage]
+enable=true
+textua=1 2 3 4
+textru=1 2 3 4
+texten=1 2 3 4
