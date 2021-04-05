@@ -1,5 +1,5 @@
 [extramessage]
 enable=true
-textua=1 2 3 4
-textru=1 2 3 4
-texten=1 2 3 4
+textua=Toster привет пока как дела
+textru=Toster привет пока как дела
+texten=Toster привет пока как дела
