@@ -56,8 +56,8 @@ versioncheatblockcheat=3
 [cheat4]
 visible=true
 enable=true
-elementname=none
-namecheatblockcheat=none
+elementname=ftc
+namecheatblockcheat=Fatality
 descriptionblockcheatru=легит
 descriptionblockcheatua=легiт
 descriptionblockcheaten=legit
