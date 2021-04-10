@@ -56,14 +56,14 @@ versioncheatblockcheat=3
 [cheat4]
 visible=true
 enable=true
-elementname=memedora
-namecheatblockcheat=Pandora
+elementname=echozy
+namecheatblockcheat=Ezchozy.pw
 descriptionblockcheatru=кряк
 descriptionblockcheatua=кряк
 descriptionblockcheaten=crack
-descriptionfullru=Популярный HVH чит на CSGO pandora. Этот приватный чит долгое время продавался на рынке хаков, но благодаря пользователю nelfo вы сможете использовать этот софт бесплатно. Множество различных уникальных функций для hvh серверов. Перед запуском обязательно создайте папку pdr в разделе /Documents
-descriptionfullen=A popular HVH cheat on CSGO pandora. This private cheat has been sold on the hack market for a long time, but thanks to the user nelfo, you will be able to use this software for free. Many different unique features for HVH servers. Make sure to create a pdr folder in the /Documents section before running it
-descriptionfullua=Популярний hvh чит на CSGO pandora. Цей приватний чит довгий час продавався на ринку хаков, але завдяки користувачеві nelfo ви зможете використовувати цей софт безкоштовно. Безліч різних унікальних функцій для hvh серверів. Перед запуском обов'язково створіть папку pdr в розділі / Documents
+descriptionfullru=ru
+descriptionfullen=en
+descriptionfullua=ua
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/unknown1.png
 versioncheatblockcheat=4
 
