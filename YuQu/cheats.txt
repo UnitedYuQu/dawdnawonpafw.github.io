@@ -56,8 +56,8 @@ versioncheatblockcheat=3
 [cheat4]
 visible=true
 enable=true
-elementname=otcv2
-namecheatblockcheat=Onetap v2
+elementname=none
+namecheatblockcheat=none
 descriptionblockcheatru=легит
 descriptionblockcheatua=легiт
 descriptionblockcheaten=legit
@@ -112,8 +112,8 @@ versioncheatblockcheat=7
 [cheat8]
 visible=true
 enable=true
-elementname=quarcsdk
-namecheatblockcheat=quarcsdk.dll
+elementname=none
+namecheatblockcheat=none
 descriptionblockcheatru=легит
 descriptionblockcheatua=легiт
 descriptionblockcheaten=legit
