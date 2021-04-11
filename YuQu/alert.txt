@@ -1,5 +1,5 @@
 [alert]
-enable=true
+enable=false
 textru=Драствуте.
 textua=Вітаю.
 texten=Hello.
