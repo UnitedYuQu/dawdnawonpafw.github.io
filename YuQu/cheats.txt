@@ -15,6 +15,7 @@ value=8
 visible=true
 enable=true
 elementname=aurora
+configfolder=C:/Test123
 namecheatblockcheat=Aurora
 descriptionblockcheatru=легит
 descriptionblockcheatua=легит
