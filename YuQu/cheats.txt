@@ -71,7 +71,7 @@ descriptionfullua=Фаталіті - чит для КС:ГО, який воло�
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/fatality.png
 versioncheatblockcheat=4
 
-[cheat5]
+[cheat9]
 visible=true
 enable=true
 elementname=redmoon
@@ -84,7 +84,7 @@ descriptionfullru=Отличный чит для ксго, который был
 descriptionfullen=An excellent cheat for CSGO, which was recently updated, so it is not checked by VAC. Most importantly, the cheat is completely free. And it is updated very often. The huge functionality of redmoon will help you outwit even the most experienced CSGO player.
 descriptionfullua=Відмінний чит для ксго, який був не давно оновлений, по-цьому він не карбується VAC. Найголовніше чит абсолютно безкоштовний. І дуже часто оновлюється. Величезний функціонал redmoon допоможе вам обхитрити навіть найдосвідченішого гравця в ксго.
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/redmoon.png
-versioncheatblockcheat=5
+versioncheatblockcheat=9
 
 [cheat6]
 visible=true
@@ -131,7 +131,7 @@ descriptionfullua=Відмінний безкоштовний Legit чит Echoz
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/echzoy.png
 versioncheatblockcheat=8
 
-[cheat9]
+[cheat5]
 visible=true
 enable=true
 elementname=pandora
@@ -144,4 +144,4 @@ descriptionfullru=Этот приватный чит долгое время п�
 descriptionfullen=This private cheat has been sold on the hack market for a long time, but thanks to the user nelfo, you will be able to use this software for free. Many different unique features for HVH servers. Use this cheat instead of the onetap v3 crack and you will be able to dominate the game servers.
 descriptionfullua=Цей приватний чит довгий час продавався на ринку хаков, але завдяки користувачеві nelfo ви зможете використовувати цей софт безкоштовно. Безліч різних унікальних функцій для hvh серверів. Використовуйте цей чит замість кряка onetap v3 і ви зможете домінувати на ігрових серверах.
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/Screenshot_1.png
-versioncheatblockcheat=9
+versioncheatblockcheat=5
