@@ -9,7 +9,7 @@ textua=Бета-версія лоадера YuQu 2021.
 
 
 [cheats]
-value=8
+value=9
 
 [cheat1]
 visible=true
@@ -130,3 +130,18 @@ descriptionfullen=Great free Legit cheat Echozy.pw for CS:GO, which is available
 descriptionfullua=Відмінний безкоштовний Legit чит Echozy.pw для CS: GO, який доступний для запуску з нашого лоадера. Цей чит може послужити хорошою заміною топовому PPHUD, оскільки функціональність практично ідентична, а надійність і захист не поступаються іншим безкоштовним читам.
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/echzoy.png
 versioncheatblockcheat=8
+
+[cheat9]
+visible=true
+enable=true
+elementname=pandora
+configfolder=csgofolder
+namecheatblockcheat=Pandora
+descriptionblockcheatru=рейдж
+descriptionblockcheatua=рейдж
+descriptionblockcheaten=rage
+descriptionfullru=Этот приватный чит долгое время продавался на рынке хаков, но благодаря пользователю nelfo вы сможете использовать этот софт бесплатно. Множество различных уникальных функций для hvh серверов. Используйте этот чит взамен кряка onetap v3 и вы сможете доминировать на игровых серверах.
+descriptionfullen=This private cheat has been sold on the hack market for a long time, but thanks to the user nelfo, you will be able to use this software for free. Many different unique features for HVH servers. Use this cheat instead of the onetap v3 crack and you will be able to dominate the game servers.
+descriptionfullua=Цей приватний чит довгий час продавався на ринку хаков, але завдяки користувачеві nelfo ви зможете використовувати цей софт безкоштовно. Безліч різних унікальних функцій для hvh серверів. Використовуйте цей чит замість кряка onetap v3 і ви зможете домінувати на ігрових серверах.
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/Screenshot_1.png
+versioncheatblockcheat=9
