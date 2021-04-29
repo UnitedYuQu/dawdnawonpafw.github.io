@@ -9,7 +9,7 @@ textua=Бета-версія лоадера YuQu 2021.
 
 
 [cheats]
-value=9
+value=10
 
 [cheat1]
 visible=true
@@ -21,7 +21,7 @@ descriptionblockcheatru=легит
 descriptionblockcheatua=легит
 descriptionblockcheaten=legit
 descriptionfullru=Прекрасный чит для игры CS:GO. Удобный интерфейс на русском языке с переключением темы; большое количество уникальных функций: воллхак с полным обходом записи на видео и прямых трансляциях; плавный и четкий легит аимбот, жесткий и быстрый рейдж аимбот; ченджер инвентаря, профиля, добавление медалей; легит анти-аимы. Чит предоставит Вам полное преимущество над вашими противниками в любой ситуации и точно не оставит Вас равнодушным
-descriptionfullen=A great cheat for CS: GO. User-friendly interface with theme switching; a large number of unique features: a wallhack with a complete bypass of recording on video and live broadcasts; smooth and clear legit aimbot, hard and fast rage aimbot; changer of inventory, profile, adding medals; anti-aim leg. Cheat will give you a full advantage over your opponents in any situation and will definitely not leave you indifferent
+descriptionfullen=A great cheat for CS:GO. User-friendly interface with theme switching; a large number of unique features: a wallhack with a complete bypass of recording on video and live broadcasts; smooth and clear legit aimbot, hard and fast rage aimbot; changer of inventory, profile, adding medals; anti-aim leg. Cheat will give you a full advantage over your opponents in any situation and will definitely not leave you indifferent
 descriptionfullua=Прекрасний чит для гри CS: GO. Зручний інтерфейс з перемиканням теми; велика кількість унікальних функцій: воллхака з повним обходом записи на відео і прямих трансляціях; плавний і чіткий легіт аімбот, жорсткий і швидкий рейдж аімбот; ченджер інвентарю, профілю, додавання медалей; легіт анти-аіми. Чит надасть Вам повну перевагу над вашими противниками в будь-якій ситуації і точно не залишить Вас байдужим
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/img1.png
 versioncheatblockcheat=1
@@ -86,7 +86,7 @@ descriptionfullua=Відмінний чит для ксго, який був н�
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/redmoon.png
 versioncheatblockcheat=9
 
-[cheat6]
+[cheat10]
 visible=true
 enable=true
 elementname=owness
@@ -99,7 +99,7 @@ descriptionfullru=Это рейдж чит при помощи которого 
 descriptionfullen=This is a Rage cheat with which you can dominate the game servers (according to the developer). Test this software yourself and share your impressions.
 descriptionfullua=Це рейдж чит за допомогою якого ви зможете домінувати на ігрових серверах (за словами розробника). Тестуйте даний софт самостійно і діліться своїми враженнями.
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/owness.png
-versioncheatblockcheat=6
+versioncheatblockcheat=10
 
 [cheat7]
 visible=true
@@ -145,3 +145,18 @@ descriptionfullen=This private cheat has been sold on the hack market for a long
 descriptionfullua=Цей приватний чит довгий час продавався на ринку хаков, але завдяки користувачеві nelfo ви зможете використовувати цей софт безкоштовно. Безліч різних унікальних функцій для hvh серверів. Використовуйте цей чит замість кряка onetap v3 і ви зможете домінувати на ігрових серверах.
 imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/Screenshot_1.png
 versioncheatblockcheat=5
+
+[cheat6]
+visible=true
+enable=true
+elementname=otc2
+configfolder=csgofolder
+namecheatblockcheat=Onetap V2
+descriptionblockcheatru=рейдж
+descriptionblockcheatua=рейдж
+descriptionblockcheaten=rage
+descriptionfullru=Множество различных функций, данный хак используется в любом режиме, вы спокойно сможете обыграть других hvh игроков, вы сможете использовать данный хак на основном аккаунте и играть по Legit. Все это возможно при помощи кряк хака OneTap.SU на CSGO.
+descriptionfullen=Many different functions, this hack is used in any mode, you can easily beat other hvh players, you can use this hack on the main account and play on Legit. All this is possible with the help of the OneTap crack hack.SU on CSGO.
+descriptionfullua=Безліч різних функцій, даний хак використовується в будь-якому режимі, ви спокійно зможете обіграти інших hvh гравців, ви зможете використовувати даний хак на основному акаунті і грати по Legit. Все це можливо за допомогою кряк хака OneTap.SU на CSGO.
+imgurl=https://raw.githubusercontent.com/UnitedYuQu/draw/main/YuQu/img/otc2.png
+versioncheatblockcheat=6
