@@ -58,7 +58,7 @@ versioncheatblockcheat=3
 
 [cheat4]
 visible=true
-enable=true
+enable=false
 elementname=ftc
 configfolder=csgofolder
 namecheatblockcheat=Fatality
