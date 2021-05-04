@@ -73,7 +73,7 @@ versioncheatblockcheat=4
 
 [cheat5]
 visible=true
-enable=true
+enable=false
 elementname=owness
 configfolder=C:/Users/%USERPROFILE%/AppData/Roaming/owness
 namecheatblockcheat=Owness
