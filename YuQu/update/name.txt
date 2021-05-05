@@ -1,2 +1,2 @@
 [updater]
-name=YuQuLoader.exe
+name=YuQu.exe
